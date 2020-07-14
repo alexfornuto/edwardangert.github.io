@@ -31,7 +31,7 @@
 				$body.removeClass('is-loading');
 			});
 
-		// Touch?
+		// To Touch? Or Not To Touch?
 			if (skel.vars.mobile) {
 
 				// Turn on touch mode.
