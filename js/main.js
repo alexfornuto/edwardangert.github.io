@@ -19,8 +19,8 @@
 	});
 
 	$(function() {
-
-		var $window = $(window),
+sdgsdgdsg
+		var $window = $(window),dsfsdf
 			$body = $('body'),
 			$header = $('#header');
 
@@ -31,7 +31,7 @@
 				$body.removeClass('is-loading');
 			});
 
-		// Touch?
+		// To Touch? Or Not To Touch?
 			if (skel.vars.mobile) {
 
 				// Turn on touch mode.
